@@ -1,0 +1,15 @@
+C:\Users\stefa\cSharpPractice\Mini 4\bin\Debug\net9.0\Mini 4.exe
+C:\Users\stefa\cSharpPractice\Mini 4\bin\Debug\net9.0\Mini 4.deps.json
+C:\Users\stefa\cSharpPractice\Mini 4\bin\Debug\net9.0\Mini 4.runtimeconfig.json
+C:\Users\stefa\cSharpPractice\Mini 4\bin\Debug\net9.0\Mini 4.dll
+C:\Users\stefa\cSharpPractice\Mini 4\bin\Debug\net9.0\Mini 4.pdb
+C:\Users\stefa\cSharpPractice\Mini 4\obj\Debug\net9.0\Mini 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\cSharpPractice\Mini 4\obj\Debug\net9.0\Mini 4.AssemblyInfoInputs.cache
+C:\Users\stefa\cSharpPractice\Mini 4\obj\Debug\net9.0\Mini 4.AssemblyInfo.cs
+C:\Users\stefa\cSharpPractice\Mini 4\obj\Debug\net9.0\Mini 4.csproj.CoreCompileInputs.cache
+C:\Users\stefa\cSharpPractice\Mini 4\obj\Debug\net9.0\Mini 4.sourcelink.json
+C:\Users\stefa\cSharpPractice\Mini 4\obj\Debug\net9.0\Mini 4.dll
+C:\Users\stefa\cSharpPractice\Mini 4\obj\Debug\net9.0\refint\Mini 4.dll
+C:\Users\stefa\cSharpPractice\Mini 4\obj\Debug\net9.0\Mini 4.pdb
+C:\Users\stefa\cSharpPractice\Mini 4\obj\Debug\net9.0\Mini 4.genruntimeconfig.cache
+C:\Users\stefa\cSharpPractice\Mini 4\obj\Debug\net9.0\ref\Mini 4.dll
