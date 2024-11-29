@@ -1,0 +1,15 @@
+C:\Users\stefa\cSharpPractice\Mini 6\obj\Debug\net9.0\Mini 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\cSharpPractice\Mini 6\obj\Debug\net9.0\Mini 6.AssemblyInfoInputs.cache
+C:\Users\stefa\cSharpPractice\Mini 6\obj\Debug\net9.0\Mini 6.AssemblyInfo.cs
+C:\Users\stefa\cSharpPractice\Mini 6\obj\Debug\net9.0\Mini 6.csproj.CoreCompileInputs.cache
+C:\Users\stefa\cSharpPractice\Mini 6\obj\Debug\net9.0\Mini 6.sourcelink.json
+C:\Users\stefa\cSharpPractice\Mini 6\bin\Debug\net9.0\Mini 6.exe
+C:\Users\stefa\cSharpPractice\Mini 6\bin\Debug\net9.0\Mini 6.deps.json
+C:\Users\stefa\cSharpPractice\Mini 6\bin\Debug\net9.0\Mini 6.runtimeconfig.json
+C:\Users\stefa\cSharpPractice\Mini 6\bin\Debug\net9.0\Mini 6.dll
+C:\Users\stefa\cSharpPractice\Mini 6\bin\Debug\net9.0\Mini 6.pdb
+C:\Users\stefa\cSharpPractice\Mini 6\obj\Debug\net9.0\Mini 6.dll
+C:\Users\stefa\cSharpPractice\Mini 6\obj\Debug\net9.0\refint\Mini 6.dll
+C:\Users\stefa\cSharpPractice\Mini 6\obj\Debug\net9.0\Mini 6.pdb
+C:\Users\stefa\cSharpPractice\Mini 6\obj\Debug\net9.0\Mini 6.genruntimeconfig.cache
+C:\Users\stefa\cSharpPractice\Mini 6\obj\Debug\net9.0\ref\Mini 6.dll
